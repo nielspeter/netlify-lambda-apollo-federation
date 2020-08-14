@@ -10,7 +10,7 @@ Functions code is inspired and forked from this [repo](https://github.com/bkegle
 
 Deployable right away!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/peter-wd-1/netlify-lambda-apollo-federation.git)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/peter-wd-1/netlify-lambda-apollo-federation)
 
 ### Start
 
