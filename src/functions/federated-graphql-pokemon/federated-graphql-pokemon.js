@@ -3,8 +3,8 @@ const { ApolloServer } = require("apollo-server-lambda");
 const { buildFederatedSchema } = require("@apollo/federation");
 const { createMongoConnection, models } = require("../../mongo");
 
-const { schema } = require("./schema");
-const resolvers = require("./resolvers");
+const { schema } = require("./schema/schema");
+const resolvers = require("./schema/resolvers");
 
 let cachedDb;
 
